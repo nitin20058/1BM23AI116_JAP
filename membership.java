@@ -34,7 +34,7 @@ public class membership {
 //
 //Welcome to the Membership
 //Enter your name
-// monish
+// Nitin
 //Enter the age
 //19
 //Active member? type (true/false)
@@ -42,7 +42,7 @@ public class membership {
 //Enter the duration in Months
 //6
 //Details:
-//Name  monish
+//Name  Nitin
 //Age 19
 //Duration 6
 //Fee 300.0
