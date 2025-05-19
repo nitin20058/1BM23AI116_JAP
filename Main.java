@@ -62,7 +62,7 @@ class Product {
 //2400
 //Enter the category
 //ahj
-//Name: nitin
+//Name: niin
 //Price: 12000.0
 //Category: gm
 //Name: nitin
