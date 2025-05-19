@@ -50,25 +50,25 @@ class Product {
 }
 //Enter the product details
 //Enter the name
-//monish
+//nitin
 //Enter the price
 //12000
 //Enter the category
 //gm
 //Enter the product details
 //Enter the name
-//nithink
+//nitin
 //Enter the price
 //2400
 //Enter the category
 //ahj
-//Name: monish
+//Name: nitin
 //Price: 12000.0
 //Category: gm
-//Name: nithink
+//Name: nitin
 //Price: 2400.0
 //Category: ahj
 //After deleteing a product
-//Name: nithink
+//Name: nitin
 //Price: 2400.0
 //Category: ahj
